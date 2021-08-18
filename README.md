@@ -12,8 +12,8 @@
   </a>
 </p>
 
-- 🧜‍♂️ 坚持学习 保持好奇
-- 🎃 blog sharing [`阿里贝斯的博客`](https://blog.strugglinglee.cn/)
-- 👀 let's go to juejin for touching fish [`掘金`](https://juejin.cn/user/1028798615654669)
+- 🧜‍♂️   坚持学习 保持好奇
+- 🎃   [`阿里贝斯的博客`](https://blog.strugglinglee.cn/)
+- 👀   [`掘金`](https://juejin.cn/user/1028798615654669)
 
 
